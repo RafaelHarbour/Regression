@@ -1,6 +1,6 @@
-#MLR vs Random Forest Regression
+# MLR vs Random Forest Regression
 
-###Using CPI data and looking at the relationship with the increase of different fuel prices.
+### Using CPI data and looking at the relationship with the increase of different fuel prices.
 
 - [ ] Add comments and headings to my notebooks
 - [ ] Do multiple tests for the model comparisons (with different random seeds)
