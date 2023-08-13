@@ -1,8 +1,8 @@
 # Multiple Linear Regression (MLR) vs Random Forest Regression
 
 The data is looking at the consumer price index (CPI) in the UK and its relation with the different energy prices.
-The raw data used can be accessed in the datasets/raw_data directory.
-The processed data can be accessed in the datasets directory.
+The raw data used can be accessed in the **datasets/raw_data** directory.
+The processed data can be accessed in the **datasets** directory.
 
 ---
 
@@ -27,6 +27,7 @@ I have conducted a comparison between MLR and Random Forest regression in order 
 ---
 
 ## Sources:
+
 Office for National Statistics:
 
 https://www.ons.gov.uk/economy/inflationandpriceindices CPI data
