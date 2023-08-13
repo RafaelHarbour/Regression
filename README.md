@@ -18,7 +18,7 @@ I have done some analysis accross every different CPI sector. This can be viewed
 
 ## Model comparison
 
-I have conducted a comparison between MLR and Random Forest regression in order to determine the optimal model for forecasting future outcomes with our data.
+I have conducted a comparison between MLR and Random Forest regression in order to determine the optimal model for forecasting future outcomes with our data. This can be viewed in the **Comparing linear regression with random forest regression** notebook.
 
 ### Further Improvements
 
